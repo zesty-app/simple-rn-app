@@ -4,8 +4,8 @@
 
 <img src="https://i.imgur.com/TMXhVUR.png" width="300px"/>
 
-1. I can write in the text field "Quoi de neuf ?" 
-2. When I click on the button "Publier", I see a new post appear at the top of the list with the text I wrote and a random photo (*)
+1. I can write in the text field `Quoi de neuf ?` 
+2. When I click on the button `Publier`, I see a new post appear at the top of the list with the text I wrote and a random photo (*)
 6. On the home page, I can scroll vertically to see all the posts
 
 ## Notes:
